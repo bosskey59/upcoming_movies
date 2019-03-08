@@ -1,0 +1,4 @@
+#!/usr/local/bin/ruby
+
+require_relative "../lib/upcoming_movies.rb"
+CLI.new.run
